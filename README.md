@@ -2,11 +2,11 @@
 Guía para la implementación de la Lightning Network en comercios online y offline usando testnet.
 
 ## Introducción
-Esta guía busca hacer la implementación basandose en el control y libertad total o casi total. Dependerás de ti mismo, con tu propio nodo, credenciales, hardware wallet, etc. Es un setup más complejo pero tendras el control total sobre tus fondos.
+Esta guía marca los hitos para la implementación de una pasarela de pago que otorgue control y libertad. Un nodo propio, credenciales, hardware wallet (billetera), etc. Es un setup más complejo pero tendrás el control total sobre tus fondos y el flujo de pago.
 
-Más adelante la idea será agregar una nueva guía o apartado para la implementacion "fácil y rápido" pero tendrás menos seguridad y control sobre tus fondos.
+Esta primera guía estudiará el proceso a fondo y posteriormente se abordará la implementacion "fácil y rápida", más asequible pero con un coste en términos de seguridad y control.
 
-Esta guía no pretende entrar muy profundamente en conceptos técnicos ni definiciones pero si servir de punto de partida para la implementación. Si necesitas profundizar en algún concepto puedes buscar en la web.
+Esta guía no pretende entrar muy profundamente en conceptos técnicos ni definiciones, pero si servir de punto de partida para la implementación. Si necesitas profundizar en algún concepto puedes buscar en la web.
 
 ## Idea
 La idea general de implementación será:
